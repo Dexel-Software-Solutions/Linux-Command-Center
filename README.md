@@ -3,7 +3,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║         LINUX COMMAND CENTER — ALL-IN-ONE TERMINAL SUITE        ║
+║         LINUX COMMAND CENTER — ALL-IN-ONE TERMINAL SUITE         ║
 ║                  Developer: Demiyan Dissanayake                  ║
 ║                        Version: 3.0 PRO                          ║
 ╚══════════════════════════════════════════════════════════════════╝
@@ -179,14 +179,14 @@ STACK = {
 <div align="center">
 
 ```
-Login: demiyan               Name: Demiyan Dissanayake
+Login: Demiyan               Name: Demiyan Dissanayake
 Shell: /bin/bash             
 Project: Linux Command Center v3.0 PRO
 ```
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Demiyan-00d4ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Demiyan-00d4ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dexel-Software-Solutions)
 
 <br/>
 

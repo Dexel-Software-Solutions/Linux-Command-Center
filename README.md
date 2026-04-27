@@ -94,7 +94,7 @@ $ python3 linux_command_center.py
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/linux-command-center.git
+git clone https://github.com/Dexel-Software-Solutions/Linux-Command-Center.git
 cd linux-command-center
 
 # Install dependencies (tkinter usually pre-installed)
